@@ -108,7 +108,7 @@ body{
   width: 100%;
   min-height: 100vh;
     background-color: white;
-        min-width: 100vh;
+    
     background-color: var(--base-color);
     color: var(--text-color);
      font-family: 'Georgia', 'Times New Roman', Times, serif;
